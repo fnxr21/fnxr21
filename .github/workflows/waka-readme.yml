@@ -20,5 +20,5 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: HTTP Request,Text,JSON
-          # IGNORED_LANGUAGES: Other
+          IGNORED_LANGUAGES: HTTP Request,Text,JSON,Other
+
