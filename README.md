@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 14 December 2023
+From: 21 November 2023 - To: 15 December 2023
 
-Total Time: 46 hrs 58 mins
+Total Time: 50 hrs 19 mins
 
-Go             18 hrs 58 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-JavaScript     16 hrs 36 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Figma Design   6 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-TypeScript     2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-YAML           55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Go             21 hrs 50 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+JavaScript     16 hrs 36 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Figma Design   6 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+TypeScript     2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+YAML           1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Text           21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Bash           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-HTTP Request   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-CSS            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTTP Request   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
