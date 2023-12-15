@@ -18,7 +18,6 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
-          SHOW_TOTAL: false
+          SHOW_TOTAL: true
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: HTTP Request,Text,JSON,Other
-
+          IGNORED_LANGUAGES: Other
