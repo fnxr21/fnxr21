@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 11 January 2024
+From: 21 November 2023 - To: 12 January 2024
 
-Total Time: 85 hrs 51 mins
+Total Time: 91 hrs 25 mins
 
-Go             53 hrs 48 mins  ████████▒░░░░░░░░░░░░░░░░   33.18 %
-JavaScript     19 hrs 8 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Figma Design   6 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-TypeScript     2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-YAML           1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash           45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Text           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Git Config     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go             54 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   32.47 %
+JavaScript     23 hrs 50 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Figma Design   6 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TypeScript     2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+YAML           1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash           51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Git Config     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Markdown       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
