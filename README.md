@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 16 January 2024
+From: 21 November 2023 - To: 17 January 2024
 
-Total Time: 104 hrs 57 mins
+Total Time: 110 hrs 18 mins
 
-Go             56 hrs 20 mins  ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-JavaScript     35 hrs 13 mins  █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Figma Design   6 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-TypeScript     2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-YAML           1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash           1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go             58 hrs 49 mins  ████████░░░░░░░░░░░░░░░░░   31.44 %
+JavaScript     38 hrs 5 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Figma Design   6 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+TypeScript     2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML           1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Bash           1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Text           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 XML            18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JSON           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
