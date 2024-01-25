@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 24 January 2024
+From: 21 November 2023 - To: 25 January 2024
 
-Total Time: 134 hrs 50 mins
+Total Time: 135 hrs 2 mins
 
-Go             64 hrs 54 mins  ███████▓░░░░░░░░░░░░░░░░░   30.65 %
-JavaScript     55 hrs 1 min    ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Go             64 hrs 54 mins  ███████▓░░░░░░░░░░░░░░░░░   30.62 %
+JavaScript     55 hrs 13 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
 Figma Design   6 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 TypeScript     2 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 Bash           1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
