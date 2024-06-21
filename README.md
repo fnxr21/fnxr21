@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 20 June 2024
+From: 21 November 2023 - To: 21 June 2024
 
-Total Time: 428 hrs 52 mins
+Total Time: 432 hrs 54 mins
 
-Go             254 hrs 42 mins ████████████▓░░░░░░░░░░░░   50.13 %
-JavaScript     146 hrs 20 mins ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-Other          79 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Go             258 hrs 44 mins ████████████▓░░░░░░░░░░░░   50.53 %
+JavaScript     146 hrs 20 mins ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Other          79 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
 ```
 
 <!--END_SECTION:waka-->
