@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 10 December 2024
+From: 21 November 2023 - To: 11 December 2024
 
-Total Time: 806 hrs 54 mins
+Total Time: 811 hrs 31 mins
 
-Go                497 hrs 40 mins ██████████████░░░░░░░░░░░   56.10 %
-JavaScript        164 hrs 52 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-TypeScript        63 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-YAML              22 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Bash              16 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Markdown          7 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Go                497 hrs 54 mins ██████████████░░░░░░░░░░░   55.84 %
+JavaScript        165 hrs 15 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+TypeScript        66 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+YAML              22 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Bash              16 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Markdown          7 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Figma Design      6 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Docker            4 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Protocol Buffer   4 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON              5 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Docker            5 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
