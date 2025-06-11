@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 10 June 2025
+From: 21 November 2023 - To: 11 June 2025
 
-Total Time: 1,300 hrs 12 mins
+Total Time: 1,308 hrs 34 mins
 
-Go                         611 hrs 2 mins  ███████████░░░░░░░░░░░░░░   44.20 %
-TypeScript                 354 hrs 47 mins ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-JavaScript                 188 hrs 56 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-YAML                       35 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Bash                       26 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Markdown                   12 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-JSON                       12 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Go                         611 hrs 2 mins  ███████████░░░░░░░░░░░░░░   43.94 %
+TypeScript                 358 hrs 6 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+JavaScript                 193 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+YAML                       35 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Bash                       26 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Markdown                   12 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JSON                       12 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 Docker                     8 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 SQL                        6 hrs 42 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
