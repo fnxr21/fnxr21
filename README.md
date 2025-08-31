@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 30 August 2025
+From: 21 November 2023 - To: 31 August 2025
 
-Total Time: 1,672 hrs 24 mins
+Total Time: 1,675 hrs 24 mins
 
-Go                         611 hrs 2 mins  ████████▓░░░░░░░░░░░░░░░░   34.82 %
-JavaScript                 484 hrs 15 mins ███████░░░░░░░░░░░░░░░░░░   27.59 %
-TypeScript                 406 hrs 1 min   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Go                         611 hrs 2 mins  ████████▓░░░░░░░░░░░░░░░░   34.76 %
+JavaScript                 487 hrs 14 mins ███████░░░░░░░░░░░░░░░░░░   27.72 %
+TypeScript                 406 hrs 1 min   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
 YAML                       35 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 Bash                       29 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 JSON                       20 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
