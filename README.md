@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 09 August 2026
+From: 21 November 2023 - To: 10 August 2026
 
-Total Time: 2,385 hrs 10 mins
+Total Time: 2,390 hrs
 
-JavaScript                 785 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.70 %
-Go                         747 hrs 33 mins       ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-TypeScript                 550 hrs 27 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-Python                     50 hrs 29 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash                       41 hrs 40 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-YAML                       39 hrs 19 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON                       33 hrs 25 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown                   29 hrs 4 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-SQL                        11 hrs 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript                 785 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.64 %
+Go                         748 hrs 16 mins       ███████▓░░░░░░░░░░░░░░░░░   30.14 %
+TypeScript                 550 hrs 44 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Python                     52 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Bash                       42 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+YAML                       39 hrs 19 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JSON                       33 hrs 30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown                   29 hrs 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Makefile                   11 hrs 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
